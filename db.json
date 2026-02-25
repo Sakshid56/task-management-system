@@ -1,20 +1,18 @@
 {
-  "tasks": [
+  "users": [
     {
-      "title": "project",
-      "assignedTo": "manisha",
-      "priority": "Medium",
-      "status": "Pending",
-      "createdAt": "2/12/2026, 4:11:41 PM",
-      "id": "417e"
+      "id": 1,
+      "name": "Manisha",
+      "email": "manisha@gmail.com",
+      "role": "Developer",
+      "status": "Active"
     },
     {
-      "title": "debugging",
-      "assignedTo": "sangham",
-      "priority": "Low",
-      "status": "Pending",
-      "createdAt": "2/12/2026, 4:11:49 PM",
-      "id": "4f64"
+      "id": 2,
+      "name": "Sangham",
+      "email": "sangham@gmail.com",
+      "role": "Tester",
+      "status": "Active"
     }
   ]
 }
